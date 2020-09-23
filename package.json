@@ -1,7 +1,7 @@
 {
   "name": "jp-formatter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Japanese formatter",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,7 +14,12 @@
     "type": "git",
     "url": "git+https://github.com/otaaaa/jp-formatter.git"
   },
-  "author": "",
+  "keywords": [
+    "japanese",
+    "address",
+    "normalize"
+  ],
+  "author": "otaaaa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/otaaaa/jp-formatter/issues"

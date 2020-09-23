@@ -5,7 +5,7 @@
 Using npm:
 
 ```
-$ npm i --save lodash.round
+$ npm i jp-formatter --save
 ```
 
 In Node.js:
