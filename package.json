@@ -1,0 +1,27 @@
+{
+  "name": "jp-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaaaa/jp-formatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaaaa/jp-formatter/issues"
+  },
+  "homepage": "https://github.com/otaaaa/jp-formatter#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
+
