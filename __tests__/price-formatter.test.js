@@ -1,6 +1,8 @@
 const formatPrice = require('../lib/price-formatter');
 
 test('formatPrice', () => {
+  expect(formatPrice(null)).toStrictEqual(null);
+
   // with comma
   expect(formatPrice('1万円')).toStrictEqual(10000);
   expect(formatPrice('12万円')).toStrictEqual(120000);
