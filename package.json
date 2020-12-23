@@ -1,6 +1,6 @@
 {
   "name": "jp-formatter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Japanese formatter",
   "main": "index.js",
   "directories": {
@@ -29,4 +29,3 @@
     "jest": "^26.4.2"
   }
 }
-
